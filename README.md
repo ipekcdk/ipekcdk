@@ -3,4 +3,4 @@
 - 🔭 I’m a student at Iskenderun Technical University.
 - 🌱 I’m currently learning software.
 - 👯 I’m looking to collaborate on Javascript projects.
-- 📫 How to reach me --> @ipekcdk or ipekcidik@gmail.com
+- 📫 How to reach me --> ipekcidik@gmail.com
