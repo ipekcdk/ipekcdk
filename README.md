@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript,Bootstrap**
 
-- 📫 How to reach me **ipekcidik@gmail.com**
+- 📫 How to reach me -> **ipekcidik@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
