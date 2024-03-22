@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İpek</h1>
 
 
-- 🔭 **Computer Engineer**
+- 👨‍💻 **Computer Engineer**
   
 - 📫 **ipekcidik@gmail.com**
   
