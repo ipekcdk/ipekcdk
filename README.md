@@ -2,15 +2,8 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 
-- 🔭 I’m a **computer engineering student.**
-
-- 🌱 I’m currently learning **React.JS**
-
-- 👯 I’m looking to collaborate on **Web projects**
-
-- 💬 Ask me about **HTML, CSS, JavaScript,Bootstrap**
-
-- 📫 How to reach me -> **ipekcidik@gmail.com**
+- 🔭 **computer engineer**
+- 📫 **ipekcidik@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
